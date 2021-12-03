@@ -1,6 +1,6 @@
 # Predicting-personality-using-Resume📑
-* This system focuses on predicting the personality of the person using various information like age, gender, score of the Big 5 personality traits like penness, conscientiousness, extraversion, agreeableness, neuroticism and experience. etc. It also extracts necessary information from your resume using pyresparser module which is built using nltk and spaCy. For training the model using Logistic Regression a dataset(csv file) of 700 people with 7 different values as mention above is used.
-* This project can be used in many areas that require selection of good candiates from a pool of applicants to save time and decrease workload of the recruiter. 
+* This system focuses on predicting the personality of the person using various information like age, gender, a score of the Big 5 personality traits like openness, conscientiousness, extraversion, agreeableness, neuroticism, and experience. etc. It also extracts necessary information from your resume using the pyresparser module which is built using nltk and spaCy. For training the model using Logistic Regression a dataset(CSV file) of 700 people with 7 different values as mentioned above is used.
+* This project can be used in many areas that require the selection of good candidates from a pool of applicants to save time and decrease the workload of the recruiter. 
 ## Execution
 1. First download the project and run _"main.py"_. Read description, click on Get started !!
 2. Now, Fill all the details and upload your Resume as PDF. Click _Submit_ .
